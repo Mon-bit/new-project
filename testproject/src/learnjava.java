@@ -6,6 +6,8 @@ public class learnjava {
 		// TODO Auto-generated constructor stub
 	}
 	float a=500;
+	int b= 100;
+	
 
 	
 			
